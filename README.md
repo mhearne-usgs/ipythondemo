@@ -14,6 +14,14 @@ http://www.scipy.org/install.html
 
 This demo has been tested with Anaconda.
 
+You will likely need to install basemap.  If using anaconda, do the following:
+
+conda install basemap
+
+otherwise:
+
+pip install basemap 
+
 You will need to install ObsPy using pip (make sure you have C and Fortran compilers installed on your system):
 
 pip install obspy
@@ -21,6 +29,7 @@ pip install obspy
 You will also need to install the following custom packages:
 
  * neicio: https://github.com/usgs/neicio
+ * neicutil: https://github.com/usgs/neicutil
  * smtools: https://github.com/mhearne-usgs/smtools
 
 
