@@ -42,3 +42,6 @@ git clone https://github.com/mhearne-usgs/ipythondemo.git
 Then start it up like this:
 
 ipython notebook IPythonDemo.ipynb 
+
+The notebook, when executed, should look something like this:
+http://nbviewer.ipython.org/github/mhearne-usgs/ipythondemo/blob/master/IPythonDemo.ipynb
