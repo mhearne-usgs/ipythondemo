@@ -1,5 +1,7 @@
 #specific files
 2008.US.10hz.10pc50.txt
+us_hazardCurves.5hz.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
